@@ -19,7 +19,7 @@ GEM
       connection_pool
     redis-namespace (1.10.0)
       redis (>= 4)
-    resque (2.4.0)
+    resque (2.5.0)
       mono_logger (~> 1.0)
       multi_json (~> 1.0)
       redis-namespace (~> 1.6)
@@ -38,7 +38,7 @@ PLATFORMS
 DEPENDENCIES
   minitest (~> 5.5)
   mocha (~> 0.9)
-  resque (= 2.4.0)
+  resque (~> 2.5)
 
 BUNDLED WITH
    1.17.2

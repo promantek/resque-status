@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'resque', '2.4.0'
+gem 'resque', '~> 2.5'
 
 group :test do
   gem 'mocha', '~>0.9'
